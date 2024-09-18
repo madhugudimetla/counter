@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .heading {
+    font-family: 'Roboto';
+    font-size: 40px;
+    color: #32404d;
+  }
+  
+  .count {
+    font-size: 80px;
+    font-family: 'Roboto';
+    color:white;
+    margin-top: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Roboto';
+    color: white;
+    padding:8px 15px;
+    margin: 8px;
+    background-color: #7c69e9;
+    border: 0px;
+    border-radius: 4px;
+  }
+  .reset{
+    background-color: red;
+  }
